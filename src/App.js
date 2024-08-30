@@ -123,7 +123,7 @@ function Logo() {
   return (
     <div className="logo">
       <span role="img">🌟</span>
-      <h1>CineScout</h1>
+      <h1>ReelBlend</h1>
     </div>
   );
 }
